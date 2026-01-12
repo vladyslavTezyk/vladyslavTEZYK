@@ -21,6 +21,6 @@ Email: vlad.tezyk.pro@gmail.com
 
 LinkedIn: www.linkedin.com/in/vladtezyk
 
-Portfolio: vladyslavtezyk.dev​
+Portfolio: https://vladyslavtezyk.dev​
 
 Happy to chat about projects, roles, or open‑source collaborations — feel free to reach out !
