@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi there 👋
+I'm Vladyslav, Full‑stack JavaScript developer with an engineering and PhD research background in electrochemistry, now focused on product, code quality, and business impact. ​
 
-<!--
-**vladyslavTezyk/vladyslavTEZYK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Based near Grenoble, France, open to full‑time roles on ambitious web products.​
 
-Here are some ideas to get you started:
+🛠 What I do 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- End‑to‑end web application development (front + back), from feature idea to production release.
+- System design, database modeling, and reliable deployments on Vercel or VPS.
+- Close collaboration with product and design to scope, build, and iterate on features that bring real value to users.​
+
+💻 Main stack 
+
+- Frontend: Nuxt, Vue, React, TypeScript, Vuetify, Shadcn, Tailwind CSS.​
+- Backend: Node.js, REST/GraphQL, authentication, automated tests. ​
+- Data & Infra: PostgreSQL/Supabase, Docker, CI/CD, VPS.​
+
+📫 Contact 
+
+Email: vlad.tezyk.pro@gmail.com  
+
+LinkedIn: www.linkedin.com/in/vladtezyk
+
+Portfolio: vladyslavtezyk.dev​
+
+Happy to chat about projects, roles, or open‑source collaborations — feel free to reach out !
