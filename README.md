@@ -3,12 +3,14 @@ I'm Vladyslav, Full‑stack JavaScript developer with an engineering and PhD res
 
 Based near Grenoble, France, open to full‑time roles on ambitious web products.​
 
+🚀 Previously contributed to [Odysway](odysway.com) and [CROWN Procurement](https://www.crown-procurement.com/)
+
 🛠 What I do 
 
 - End‑to‑end web application development (front + back), from feature idea to production release.
 - System design, database modeling, and reliable deployments on Vercel or VPS.
 - Close collaboration with product and design to scope, build, and iterate on features that bring real value to users.
-- Contributing to open source projects: [Nuxt studio](https://github.com/nuxt-content/nuxt-studio), [Youtube](https://github.com/code-charity/youtube)​
+- Contributing to open source projects (e.g. [Nuxt studio](https://github.com/nuxt-content/nuxt-studio), [Youtube](https://github.com/code-charity/youtube)) ​
 
 💻 Main stack 
 
@@ -24,4 +26,4 @@ LinkedIn: www.linkedin.com/in/vladtezyk
 
 Portfolio: https://vladyslavtezyk.dev​
 
-Happy to chat about projects, roles, or open‑source collaborations — feel free to reach out !
+Happy to chat about projects, collaborations, roles, AI or open‑source — feel free to reach out !
