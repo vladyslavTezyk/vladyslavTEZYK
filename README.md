@@ -1,5 +1,5 @@
 Hi there 👋
-I'm Vladyslav, Full‑stack JavaScript developer with an engineering and PhD research background in electrochemistry, now focused on product, code quality, and business impact. ​
+I'm Vladyslav, Full‑stack JavaScript developer with an engineering and PhD research background in electrochemistry, now focused on product, quality, and business impact. ​
 
 Based near Grenoble, France, open to full‑time roles on ambitious web products.​
 
