@@ -3,7 +3,7 @@ I'm Vladyslav, Full‑stack JavaScript developer with an engineering and PhD res
 
 Based near Grenoble, France, open to full‑time roles on ambitious web products.​
 
-🚀 Previously contributed to [Odysway](odysway.com) and [CROWN Procurement](https://www.crown-procurement.com/)
+🚀 Previously contributed to [Odysway](https://odysway.com) and [CROWN Procurement](https://www.crown-procurement.com/)
 
 🛠 What I do 
 
