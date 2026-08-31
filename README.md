@@ -10,7 +10,7 @@ Based near Grenoble, France, open to full‑time roles on ambitious web products
 - End‑to‑end web application development (front + back), from feature idea to production release.
 - System design, database modeling, and reliable deployments on Vercel or VPS.
 - Close collaboration with product and design to scope, build, and iterate on features that bring real value to users.
-- Contributing to open source projects (e.g. [Nuxt studio](https://github.com/nuxt-content/nuxt-studio), [Youtube](https://github.com/code-charity/youtube), [ECC](https://github.com/affaan-m/ECC)
+- Contributing to open source projects (e.g. [Nuxt studio](https://github.com/nuxt-content/nuxt-studio), [Youtube](https://github.com/code-charity/youtube), [ECC](https://github.com/affaan-m/ECC))
 - Building prop-serenity app. It is an intuitive web-based simulator designed to help future homeowners and real estate investors in France confidently evaluate their financial readiness.
 
 💻 Main stack 
